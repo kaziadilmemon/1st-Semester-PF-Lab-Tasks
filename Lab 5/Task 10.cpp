@@ -40,10 +40,4 @@ int main() {
 		}
       cout<<(mysteryInt);
 
-      
-           
-
-
-
-
-}
+ }
