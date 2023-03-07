@@ -1,6 +1,6 @@
-////Create a class having 4 functions, add, sub, muland div. Each function accepts 2 
-//parameters and returns the sum,difference, multiplication and division of these numbers 
-//Create a main () function that uses the above class.
+/*Create a class having 4 functions, add, sub, muland div. Each function accepts 2 
+parameters and returns the sum,difference, multiplication and division of these numbers 
+Create a main () function that uses the above class.*/
 #include<iostream>
 Using namespace std;
 class operation{
@@ -23,4 +23,3 @@ int main(){
 	op.sub(a,b);
 	op.division(a,b);
 	op.mult(a,b);  }
-
